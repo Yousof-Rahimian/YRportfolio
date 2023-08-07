@@ -11,22 +11,30 @@ Here you will find projects that I have done and the skills that I have acquired
 # [View Portfolio](https://rahimianyousof.wixsite.com/my-site-4)
 
 ## Skills Used - Data Science 
-ETL, Data Wrangling, Data Cleaning, Data Visualization, Web Scraping, Predictive Analysis, Machine Learning, Natural Language Processing, Computer Vision, Deep Learning, and more
+Data Wrangling
+Data Cleaning
+Data Visualization
+Web Scraping
+Predictive Analysis
+Machine Learning
+Natural Language Processing
+Computer Vision
+Deep Learning
 
 ## Technologies Used - Data Science 
 Python3, R, pandas, matplotlib, seaborn, skikit-learn, numpy, Tableau, Power BI, and more
 
-## Data Science Projects
-Data Wrangling
-Python, R, Tableau Charts
-A Review of Airline Safety
-Traffic Flow and Road Safety
-Computer Vision - Acquire the skill of letter writing
-Predictive Analysis Electrical car
-Antihydroplaning System for a Motor Vehicle
-Data Visualization
-Computer Vision - Chatbot
-Weather Forecast
+# Data Science Projects
+##[Data Wrangling](https://github.com/Yousof-Rahimian/Data-Wrangling)
+##[Python, R, Tableau Charts](https://github.com/Yousof-Rahimian/Python-R-Tableau-Charts)
+##[A Review of Airline Safety](https://github.com/Yousof-Rahimian/A-Review-of-Airline-Safety)
+##[Traffic Flow and Road Safety](https://github.com/Yousof-Rahimian/Traffic-Flow-and-Road-Safety)
+##[Computer Vision - Acquire the skill of letter writing](https://github.com/Yousof-Rahimian/Acquire-the-skill-of-letter-writing)
+##[Predictive Analysis Electrical car](https://github.com/Yousof-Rahimian/Predictive-Analysis-Electrical-car-)
+##[Antihydroplaning System for a Motor Vehicle](https://github.com/Yousof-Rahimian/Antihydroplaning-System-for-a-Motor-Vehicle)
+##[Data Visualization](https://github.com/Yousof-Rahimian/Data-Visualization)
+##[Computer Vision - Chatbot](https://github.com/Yousof-Rahimian/Cahtbot)
+##[Weather Forecast](https://github.com/Yousof-Rahimian/WheaderApp)
 
 ## Skills Used - Mechanical Engineering 
 SolidWorks/ AutoCAD, Accurate Estimator, Residential and Industrial Pipe Welder, Robot Welding Operator, MIG/TIG/STICK/AMG Light Welding, and Flux Core Welder (All Materials and Positions), Punch Operator, Press Brake Operator, Router Operator, Fiber/Gas Laser Operator, Tube Laser (Fiber and CO2) Operator
