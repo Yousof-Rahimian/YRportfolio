@@ -25,7 +25,7 @@ Deep Learning
 Python3, R, pandas, matplotlib, seaborn, skikit-learn, numpy, Tableau, Power BI, and more
 
 # Data Science Projects
-##[Data Wrangling](https://github.com/Yousof-Rahimian/Data-Wrangling)
+- ##[Data Wrangling](https://github.com/Yousof-Rahimian/Data-Wrangling)
 ##[Python, R, Tableau Charts](https://github.com/Yousof-Rahimian/Python-R-Tableau-Charts)
 ##[A Review of Airline Safety](https://github.com/Yousof-Rahimian/A-Review-of-Airline-Safety)
 ##[Traffic Flow and Road Safety](https://github.com/Yousof-Rahimian/Traffic-Flow-and-Road-Safety)
