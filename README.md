@@ -8,7 +8,6 @@ I hold a Master’s in data science from Bellevue University. This fusion of mec
 ## Summary
 Here you will find projects that I have done and the skills that I have acquired for my Master of Data Science and Mechanical Engineering.
 
-# [View Portfolio](https://rahimianyousof.wixsite.com/my-site-4)
 
 ## Skills Used - Data Science 
 Data Wrangling
@@ -23,6 +22,8 @@ Deep Learning
 
 ## Technologies Used - Data Science 
 Python3, R, pandas, matplotlib, seaborn, skikit-learn, numpy, Tableau, Power BI, and more
+
+# [View Portfolio](https://rahimianyousof.wixsite.com/my-site-4)
 
 # Data Science Projects
 ## [Data Wrangling](https://github.com/Yousof-Rahimian/Data-Wrangling)
@@ -61,5 +62,4 @@ SolidWorks/ AutoCAD, Accurate Estimator, Residential and Industrial Pipe Welder,
 
 
 
-[View Portfolio](https://rahimianyousof.wixsite.com/my-site-4)
 
