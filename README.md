@@ -2,16 +2,13 @@
 # Welcome to my Portfolio
 
 
-
-
-
 ## About
 I hold a Master’s in data science from Bellevue University. This fusion of mechanical engineering and data science equips me to leverage analytical insights for enhanced decision-making. My data-driven perspective has propelled me to optimize manufacturing processes, predict maintenance requirements, and elevate overall operational efficiency
 
 ## Summary
-Here you will find projects that I have done and the skills that I have aquired for Master of Data Science and Mechanicla Engineering.
+Here you will find projects that I have done and the skills that I have acquired for my Master of Data Science and Mechanical Engineering.
 
-
+[View Portfolio](https://rahimianyousof.wixsite.com/my-site-4)
 
 ## Skills Used - Data Science 
 ETL, Data Wrangling, Data Cleaning, Data Visualization, Web Scraping, Predictive Analysis, Machine Learning, Natural Language Processing, Computer Vision, Deep Learning, and more
@@ -55,8 +52,6 @@ SolidWorks/ AutoCAD, Accurate Estimator, Residential and Industrial Pipe Welder,
 
 
 
-## View Portfolio
-https://rahimianyousof.wixsite.com/my-site-4
 
 [View Portfolio](https://rahimianyousof.wixsite.com/my-site-4)
 
